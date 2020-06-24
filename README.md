@@ -15,3 +15,14 @@ A “restful” approach was used to extract the twitter data. The REST APIs are
 
 ## File Description
 
+- Notebook1 - Contains Data Collection, Preprocessing, Exploratory Analysis, Sentiment Analysis, Emoji analysis and Topic Modelling
+- Notebook2 - Contains the Network Analysis for Samsung
+- Notebook3 - Contains the Network Analysis for Apple
+- apple_data - Contains the tweets of Apple
+- samsung_data - Contains the Tweets of Samsung
+
+## How to run
+
+- Download(Data and notebook) all the files in the repo
+- Run the notebook file using Jupyter notebook
+
